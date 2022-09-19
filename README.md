@@ -1,5 +1,8 @@
 # French Organic Certificate Downloader
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ### Download official certificates of French companies that produce/market organic products
 
 This program is intended for companies that work with other companies producing/selling organic food products. It automatically retrieves the Organic Certificate of the different suppliers and partners that are needed when the company is audites. The key used to identify the company is the SIREN or SIRET number (French national company unique identification number).
